@@ -52,7 +52,7 @@
         <br>si necesitas más información o ayuda.
       </p>
       <br>
-      <a href="mailto:alexromerolozanowp1@gmail.com" >
+      <a href="mailto:alexsdev73@gmail.com" >
       <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
       <br>
